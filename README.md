@@ -30,9 +30,9 @@ N   | Array_Solution | BitBoard_Solution | Bitset_Solution | Count of solutions
 14  | 2 652.48       | 4 171.87          | 2 634.95        | 365596
 15  | 18 187.2       | 25 637            | 17 273.5        | 2279184
 
-![1-5Queens](https://github.com/user-attachments/assets/1da65e42-c973-4a6a-9d08-361efe207035)
-![6-10Queens](https://github.com/user-attachments/assets/84b97349-e8b3-48d9-989c-cca963ce9335)
-![11-15Queens](https://github.com/user-attachments/assets/8c70ea38-dd41-4b81-9f3d-ff0861fbd790)
+![1-5Queens](https://github.com/user-attachments/assets/97e82901-039a-49bd-9cdd-e5aabe8c2e05)
+![6-10Queens](https://github.com/user-attachments/assets/3172bbd1-0132-4f02-9e14-c7bceed2bece)
+![11-15Queens](https://github.com/user-attachments/assets/85c5c478-d7fb-4114-8421-6d0275fa7429)
 
 ## Результаты
 Посмотрев на полученные графики можно увидеть, что наиболее эффективной реализацией по скорости работы оказалась реализация с помощью std::array. Скорее всего, компилятор справился с оптимизацией этого решения лучше, чем с оптимизацией решений с побитовыми операциями. \
